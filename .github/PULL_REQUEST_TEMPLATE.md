@@ -1,17 +1,7 @@
-## What & why
+## GitHub is a downstream mirror
 
-<!-- What does this change and why? Link any related issue. -->
+Public development for Cosignet happens at **https://gitlab.com/cosignet/sdk**.
 
-Closes #
+Please close this draft and open a merge request against the canonical GitLab repository instead. Direct GitHub pull requests cannot be merged into the mirrored workflow.
 
-## Changes
-
--
-
-## Checklist
-
-- [ ] Focused, single-purpose PR
-- [ ] `npm run typecheck` / `npm run build` passes
-- [ ] Types and README updated if behavior changed
-- [ ] No secrets, real payloads, or fabricated claims in code/docs
-- [ ] Security-sensitive changes flagged (or reported via security@cosignet.com)
+For security vulnerabilities, do not use a public tracker. Follow https://cosignet.com/security and email `security@cosignet.com`.
